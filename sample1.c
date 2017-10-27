@@ -2,7 +2,7 @@
 
 int main(void)
 {
-    puts("hello ETR!!\n");
+    puts("hello ETRwww\n");
     
     return 0;
 }
